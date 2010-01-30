@@ -1,0 +1,15 @@
+importFrom(survival)
+
+export(lm.main,
+lm.interaction,
+cox.main,
+cox.interaction,
+logistic.main,
+logistic.interaction,
+index.prediction,
+cv.lm.main,
+cv.lm.interaction,
+cv.cox.main,
+cv.cox.interaction,
+cv.logistic.main,
+cv.logistic.interaction)
